@@ -19,13 +19,13 @@ Experience the live website: [View Live Site](https://whslv.github.io/2048_game_
 
 ## Features
 
-🎮 Interactive sliding & merging mechanics - intuitive control scheme to slide tiles up/down/left/right and combine matching numbers.
-⏱️ Real-time score tracking - dynamic score increments as tiles merge, with display of current game status.
-📱 Responsive design - playable across desktops, tablets and mobile devices without loss of functionality or visual quality.
-♻️ Restart / New Game functionality - quick reset of grid and score to start fresh gameplay.
-🧠 Lightweight performance - optimized for minimal dependencies and smooth animations on modern browsers.
-📊 Visually clear grid & tiles - distinct tile colors, numbers and subtle transitions enhance user experience.
-💡 Browser-based deployment - no install required; works directly from the hosted page.
+🎮 Interactive sliding & merging mechanics - intuitive control scheme to slide tiles up/down/left/right and combine matching numbers. <br>
+⏱️ Real-time score tracking - dynamic score increments as tiles merge, with display of current game status. <br>
+📱 Responsive design - playable across desktops, tablets and mobile devices without loss of functionality or visual quality. <br>
+♻️ Restart / New Game functionality - quick reset of grid and score to start fresh gameplay. <br>
+🧠 Lightweight performance - optimized for minimal dependencies and smooth animations on modern browsers. <br>
+📊 Visually clear grid & tiles - distinct tile colors, numbers and subtle transitions enhance user experience. <br>
+💡 Browser-based deployment - no install required; works directly from the hosted page. <br>
 
 
 1.Clone the repository:
